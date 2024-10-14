@@ -1,4 +1,4 @@
-#Super simple demo using glasses detector demo, take an input frame from webcam and parse via https://github.com/mantasu/glasses-detector library.
+#Super simple demo using glasses detector demo, take an input frame from webcam and parse via https://github.com/mantasu/glasses-detector library to determine if user is wearing glasses or not.
 
 import cv2
 from glasses_detector import GlassesClassifier, GlassesDetector

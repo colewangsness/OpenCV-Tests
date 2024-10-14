@@ -1,2 +1,4 @@
 # OpenCV-Tests
-Sample Code used for learning OpenCV for Python.
+This repo provides samples that helped me in learning how to use OpenCV.
+
+Index
